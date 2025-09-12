@@ -47,5 +47,5 @@ R// la estructura en este caso parece ser una lista de tuplas.
 
 #Ejercicio 2,24
 
-print(calificaciones.update({"liliana:4.7}))
+print(calificaciones.update({"Liliana":4.7}))
 print(calificaciones)
